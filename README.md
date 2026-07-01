@@ -1,5 +1,29 @@
 # 💫 About Me:
-Hi, I'm Saifuddin Khan — a backend-focused full-stack developer from Odisha, India, who just wrapped up a B.Tech in Computer Science (2025) and has already been shipping real software to the real world.<br>While most developers talk about side projects, I've published one to npm. My GitHub Automation CLI tool isn't just a learning exercise — it's a developer utility that automates Git workflows and talks directly to the GitHub REST API. That instinct to build things that solve actual problems runs through everything I do.<br>On the full-stack side, I've built a production-grade MERN event booking platform complete with JWT auth, OTP email verification, and dual admin/user dashboards — the kind of architecture you'd expect in a real product, not a tutorial clone.<br>I work across the stack — Node.js, Express, React, MongoDB, Firebase — but backend engineering is where I'm most at home: designing clean REST APIs, thinking through auth flows, and building systems that hold up under real use.<br>I'm actively looking for a backend or full-stack engineering role where I can contribute to scalable, meaningful software — and keep building things worth publishing.
+### Hey, I'm Saifuddin 👋
+
+Backend-leaning full-stack developer out of Odisha, India. B.Tech CS, 2025.
+
+I like building things that actually have to work under load — not just CRUD demos.
+My async document processing system runs on BullMQ + Redis job queues with retry
+logic and exponential backoff, containerised with Docker Compose end to end. That's
+the kind of problem I enjoy: queues, workers, race conditions, the stuff that breaks
+in interesting ways at 2am.
+
+**Stack I actually use:** Node.js, Express, PostgreSQL, Redis, Docker, React, MongoDB
+
+A few things I've shipped:
+- 🔧 An async document processing pipeline with a status API for real-time job polling
+- 📦 A CLI tool published on npm that automates GitHub repo setup and deployment
+- 🎟️ A MERN event booking platform with JWT auth and OTP email verification
+
+I write clean, documented code and I'd rather understand *why* something works than
+memorize that it does — that's shown up in everything from OAuth flows to how
+Mongoose handles `populate()` under the hood.
+
+Currently looking for backend / full-stack roles where I can keep building systems
+like this for real.
+
+📫 saifuddinkhan140@gmail.com
 
 
 ## 🌐 Socials:
